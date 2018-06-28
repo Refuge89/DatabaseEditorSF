@@ -101,5 +101,10 @@ namespace DatabaseEditorSF.Views {
 			mf.FormClosed += (s, args) => this.Close();
 			mf.Show();
 		}
-	}
+
+        private void groupBoxMySQLLogin_Enter(object sender, EventArgs e)
+        {
+
+        }
+    }
 }
