@@ -34,3 +34,6 @@ C:\Users\administrador\Desktop\DatabaseEditorSF\DatabaseEditorSF\obj\Release\Dat
 C:\Users\administrador\Desktop\DatabaseEditorSF\DatabaseEditorSF\obj\Release\DatabaseEditorSF.csproj.CopyComplete
 C:\Users\administrador\Desktop\DatabaseEditorSF\DatabaseEditorSF\obj\Release\DatabaseEditorSF.exe
 C:\Users\administrador\Desktop\DatabaseEditorSF\DatabaseEditorSF\obj\Release\DatabaseEditorSF.pdb
+C:\Users\administrador\Desktop\DatabaseEditorSF\DatabaseEditorSF\obj\Release\DatabaseEditorSF.View.FormLoading.resources
+C:\Users\administrador\Desktop\DatabaseEditorSF\DatabaseEditorSF\bin\Release\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\administrador\Desktop\DatabaseEditorSF\DatabaseEditorSF\bin\Release\Microsoft.VisualBasic.PowerPacks.xml

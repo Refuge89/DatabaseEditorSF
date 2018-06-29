@@ -1,6 +1,7 @@
 C:\Users\administrador\Desktop\DatabaseEditorSF Editor\DatabaseEditorSF\obj\Release\DatabaseEditorSF.Views.FormAbout.resources
 C:\Users\administrador\Desktop\DatabaseEditorSF Editor\DatabaseEditorSF\obj\Release\DatabaseEditorSF.Views.FormMain.resources
 C:\Users\administrador\Desktop\DatabaseEditorSF Editor\DatabaseEditorSF\obj\Release\DatabaseEditorSF.Views.FormMySQL.resources
+C:\Users\administrador\Desktop\DatabaseEditorSF Editor\DatabaseEditorSF\obj\Release\DatabaseEditorSF.Views.FormLoading.resources
 C:\Users\administrador\Desktop\DatabaseEditorSF Editor\DatabaseEditorSF\obj\Release\DatabaseEditorSF.Views.FormPopup.FormPopupCheckboxList.resources
 C:\Users\administrador\Desktop\DatabaseEditorSF Editor\DatabaseEditorSF\obj\Release\DatabaseEditorSF.Views.FormPopup.FormPopupEntities.resources
 C:\Users\administrador\Desktop\DatabaseEditorSF Editor\DatabaseEditorSF\obj\Release\DatabaseEditorSF.Views.FormPopup.FormPopupSelection.resources

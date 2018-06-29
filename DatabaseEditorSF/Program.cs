@@ -16,7 +16,7 @@ namespace DatabaseEditorSF
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Views.FormMySQL());
+            Application.Run(new View.FormLoading());
         }
     }
 }

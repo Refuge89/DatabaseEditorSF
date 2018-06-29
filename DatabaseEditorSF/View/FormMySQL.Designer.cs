@@ -1,5 +1,7 @@
-﻿namespace DatabaseEditorSF.Views {
-	partial class FormMySQL {
+﻿namespace DatabaseEditorSF.Views 
+{
+	partial class FormMySQL
+	{
 		/// <summary>
 		/// Required designer variable.
 		/// </summary>
@@ -9,8 +11,10 @@
 		/// Clean up any resources being used.
 		/// </summary>
 		/// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
-		protected override void Dispose(bool disposing) {
-			if(disposing && (components != null)) {
+		protected override void Dispose(bool disposing)
+		{
+			if (disposing && (components != null))
+			{
 				components.Dispose();
 			}
 			base.Dispose(disposing);
@@ -44,7 +48,6 @@
             this.buttonConnect = new System.Windows.Forms.Button();
             this.buttonClear = new System.Windows.Forms.Button();
             this.buttonOffline = new System.Windows.Forms.Button();
-            this.label2 = new System.Windows.Forms.Label();
             this.groupBoxMySQL.SuspendLayout();
             this.groupBoxMySQLDatabase.SuspendLayout();
             this.groupBoxMySQLLogin.SuspendLayout();
@@ -253,7 +256,7 @@
             this.buttonConnect.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(58)))), ((int)(((byte)(61)))));
             this.buttonConnect.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonConnect.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(198)))), ((int)(((byte)(64)))));
-            this.buttonConnect.Location = new System.Drawing.Point(413, 380);
+            this.buttonConnect.Location = new System.Drawing.Point(417, 373);
             this.buttonConnect.Name = "buttonConnect";
             this.buttonConnect.Size = new System.Drawing.Size(158, 43);
             this.buttonConnect.TabIndex = 6;
@@ -267,7 +270,7 @@
             this.buttonClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(58)))), ((int)(((byte)(61)))));
             this.buttonClear.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonClear.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(198)))), ((int)(((byte)(64)))));
-            this.buttonClear.Location = new System.Drawing.Point(32, 380);
+            this.buttonClear.Location = new System.Drawing.Point(38, 373);
             this.buttonClear.Name = "buttonClear";
             this.buttonClear.Size = new System.Drawing.Size(161, 43);
             this.buttonClear.TabIndex = 7;
@@ -281,7 +284,7 @@
             this.buttonOffline.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(54)))), ((int)(((byte)(58)))), ((int)(((byte)(61)))));
             this.buttonOffline.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.buttonOffline.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(198)))), ((int)(((byte)(64)))));
-            this.buttonOffline.Location = new System.Drawing.Point(226, 380);
+            this.buttonOffline.Location = new System.Drawing.Point(230, 373);
             this.buttonOffline.Name = "buttonOffline";
             this.buttonOffline.Size = new System.Drawing.Size(162, 43);
             this.buttonOffline.TabIndex = 8;
@@ -289,24 +292,12 @@
             this.buttonOffline.UseVisualStyleBackColor = false;
             this.buttonOffline.Click += new System.EventHandler(this.buttonOffline_Click);
             // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Candara", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(198)))), ((int)(((byte)(64)))));
-            this.label2.Location = new System.Drawing.Point(240, 9);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(104, 15);
-            this.label2.TabIndex = 9;
-            this.label2.Text = "DatabaseEditorSF";
-            // 
             // FormMySQL
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(25)))), ((int)(((byte)(30)))), ((int)(((byte)(32)))));
-            this.ClientSize = new System.Drawing.Size(583, 447);
-            this.Controls.Add(this.label2);
+            this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(18)))), ((int)(((byte)(18)))), ((int)(((byte)(18)))));
+            this.ClientSize = new System.Drawing.Size(648, 534);
             this.Controls.Add(this.buttonOffline);
             this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.buttonConnect);
@@ -327,7 +318,6 @@
             this.groupBoxMySQLLogin.ResumeLayout(false);
             this.groupBoxMySQLLogin.PerformLayout();
             this.ResumeLayout(false);
-            this.PerformLayout();
 
 		}
 
@@ -354,7 +344,6 @@
 		private System.Windows.Forms.TextBox textBoxUsername;
 		private System.Windows.Forms.Button buttonOffline;
 		private System.Windows.Forms.CheckBox checkBoxSavePassword;
-        private System.Windows.Forms.Label label2;
     }
 }
 
