@@ -117,9 +117,6 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="statusStripAccountSearch.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>132, 17</value>
-  </metadata>
   <metadata name="ColumnAccountSearchID.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
@@ -139,7 +136,7 @@
   <data name="buttonAccountSearchSearch.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAfUAAAH1CAYAAADvSGcRAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EwAACxMBAJqcGAAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAC0eSURBVHhe7d0N
+        EQAACxEBf2RfkQAAABl0RVh0U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAC0eSURBVHhe7d0N
         1ey4lfXxgRAIDSEQXgiBEAgNYSAEQiAEwkAIhEAIg7x731al1b6nqnT8IUvW/6z1m7XmpJ/6sq92WZZd
         //Of//wHAAA8QNgEAADzCZsAAGA+YRMAAMwnbAIAgPmETQAAMJ+wCQAA5hM2AQDAfMImAACYT9gEAADz
         CZsAAGA+YRMAAMwnbAIAgPmETQAAMJ+wCQAA5hM2AQDAfMImAACYT9gEAADzCZsAAGA+YRMAAMwnbAIA
@@ -335,10 +332,13 @@
         EwAAzCdsAgCA+YRNAAAwm//8z/8H4Y2zcTUxFtYAAAAASUVORK5CYII=
 </value>
   </data>
+  <metadata name="statusStripAccountScript.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
+    <value>322, 17</value>
+  </metadata>
   <data name="buttonAccountAccountGenerateScript.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAA+gAAAPoCAYAAABNo9TkAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAWb9JREFUeF7t3etxFLvWBuAdAiEQws4AqvDAX0JwCIRABmZMAjsEh+AQCMEhnAy+
+        wQAADsEBuJFr7QAAWb9JREFUeF7t3etxFLvWBuAdAiEQws4AqvDAX0JwCIRABmZMAjsEh+AQCMEhnAy+
         b9TTAzaW7bn0RWvpeare2uffYW7dei219A8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -736,9 +736,6 @@
   <metadata name="statusStripAccountScript.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>322, 17</value>
   </metadata>
-  <metadata name="statusStripAccountScript.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>322, 17</value>
-  </metadata>
   <metadata name="statusStripCharacterSearch.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>507, 17</value>
   </metadata>
@@ -766,7 +763,7 @@
   <data name="buttonCharacterCharacterGenerate.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAA+gAAAPoCAYAAABNo9TkAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAWb9JREFUeF7t3etxFLvWBuAdAiEQws4AqvDAX0JwCIRABmZMAjsEh+AQCMEhnAy+
+        wQAADsEBuJFr7QAAWb9JREFUeF7t3etxFLvWBuAdAiEQws4AqvDAX0JwCIRABmZMAjsEh+AQCMEhnAy+
         b9TTAzaW7bn0RWvpeare2uffYW7dei219A8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -1416,7 +1413,7 @@
   <data name="buttonItemTempGenerate.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAA+gAAAPoCAYAAABNo9TkAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EgAACxIB0t1+/AAAdVhJREFUeF7t3d911cySN+AJgRAIgRC4+e4JgRAIgRBYE8EbAiEQAiE4hJPBfFUv
+        EAAACxABrSO9dQAAdVhJREFUeF7t3d911cySN+AJgRAIgRC4+e4JgRAIgRBYE8EbAiEQAiE4hJPBfFUv
         8sGIsr1t7z+q6ufiWbOm5szBUre6+7cltf7n//7v/wAAAIAbK4sAAADAdZVFAAAA4LrKIgAAAHBdZREA
         AAC4rrIIAAAAXFdZBAAAAK6rLAIAAADXVRYBAACA6yqLAAAAwHWVRQAAAOC6yiIAAABwXWURAAAAuK6y
         CAAAAFxXWQQAAACuqywCAAAA11UWAQAAgOsqiwAAAMB1lUUAAADgusoiAAAAcF1lEQAAALiusggAAABc
@@ -1953,7 +1950,7 @@
   <data name="buttonItemLootGenerate.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAA+gAAAPoCAYAAABNo9TkAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAL
-        EgAACxIB0t1+/AAAdVhJREFUeF7t3d911cySN+AJgRAIgRC4+e4JgRAIgRBYE8EbAiEQAiE4hJPBfFUv
+        EAAACxABrSO9dQAAdVhJREFUeF7t3d911cySN+AJgRAIgRC4+e4JgRAIgRBYE8EbAiEQAiE4hJPBfFUv
         8sGIsr1t7z+q6ufiWbOm5szBUre6+7cltf7n//7v/wAAAIAbK4sAAADAdZVFAAAA4LrKIgAAAHBdZREA
         AAC4rrIIAAAAXFdZBAAAAK6rLAIAAADXVRYBAACA6yqLAAAAwHWVRQAAAOC6yiIAAABwXWURAAAAuK6y
         CAAAAFxXWQQAAACuqywCAAAA11UWAQAAgOsqiwAAAMB1lUUAAADgusoiAAAAcF1lEQAAALiusggAAABc
@@ -2945,7 +2942,7 @@
   <data name="buttonCMMailSqlGenerate.BackgroundImage" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAA+gAAAPoCAYAAABNo9TkAAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAO
-        wwAADsMBx2+oZAAAWb9JREFUeF7t3etxFLvWBuAdAiEQws4AqvDAX0JwCIRABmZMAjsEh+AQCMEhnAy+
+        wQAADsEBuJFr7QAAWb9JREFUeF7t3etxFLvWBuAdAiEQws4AqvDAX0JwCIRABmZMAjsEh+AQCMEhnAy+
         b9TTAzaW7bn0RWvpeare2uffYW7dei219A8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
         AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA

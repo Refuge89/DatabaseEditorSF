@@ -311,6 +311,7 @@
             this.Controls.Add(this.buttonClear);
             this.Controls.Add(this.buttonConnect);
             this.Controls.Add(this.groupBoxMySQL);
+            this.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(140)))), ((int)(((byte)(198)))), ((int)(((byte)(64)))));
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.MaximizeBox = false;
             this.MinimizeBox = false;
